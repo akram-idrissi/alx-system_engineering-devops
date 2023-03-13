@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l | sort -k 6 -M -r | cut -f9
+ls -l | sort -k8 -r | cut -f9
