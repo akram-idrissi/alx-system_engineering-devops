@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l | sort -k8 -t " " -r | cut -f9 -d " "
+ls -l | sort -k8 -t " " -r | cut -f9 -d " " | head -n 10
