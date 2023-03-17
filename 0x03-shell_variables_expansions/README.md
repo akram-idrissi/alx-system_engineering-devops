@@ -19,6 +19,8 @@
 4. [Global variables](./4-global_variables) : A script that prints all the enviroment variables.
 5. [Local variables ](./5-local_variables) : A script that lists all local variables and enviroment variables, and functions.
 6. [Local variable](./6-create_local_variable) : A script that creates a new local variable.
+   - Name of variable : `BEST`
+   - Value : `School`
 7. [Global variable](./7-create_global_variable) : A script that creates a new global variable.
    - Name of variable : `BEST`
    - Value : `School`
